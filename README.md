@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @angemariya
+- 👀 I’m interested in webdevelopment, books, sport and traveling
+- 🌱 I’m currently learning Java, Javascript and Python
