@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @angemariya
-- 👀 I’m interested in web development, programming, books, cars, sport and traveling
+- 👀 I’m interested in web development, programming, books, sport and traveling
 - 🌱 I’m currently learning Java, Javascript and Python
