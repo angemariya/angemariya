@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, programming, books, sport and traveling
 - 🌱 I’m currently learning Javascript, React, Typescript, mySQL.
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angemariya)](https://github.com/anuraghazra/github-readme-stats)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angemariya)](https://github.com/angemariya/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angemariya&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
