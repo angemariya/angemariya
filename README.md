@@ -6,7 +6,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angemariya&show_icons=true&locale=en&layout=compact" /></p>
 
-<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angemariya)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p>[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angemariya)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angemariya&show_icons=true&locale=en"/></p>
 
