@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Maria
-- 👀 I’m interested in web development, programming, books, sport and traveling
-- 🌱 I’m currently learning React, JavaScript, TypeScript, mySQL.
+### 👋 Hi, I’m Maria
 
 ### <a href="https://www.linkedin.com/in/maria-angelova-by">My LinkedIn Profile</a>
 
