@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m Maria
 
+### <a href="https://angemariya.github.io/MyPortfolio/">Check my CV</a>
+
 ### <a href="https://www.linkedin.com/in/maria-angelova-by">My LinkedIn Profile</a>
 
 ### Languages and Tools:
