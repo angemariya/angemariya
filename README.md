@@ -7,7 +7,9 @@
 ### Check my pinned projects below
 
 ### Codewars achieve
-<img align="left" alt="Codewars" src="https://www.codewars.com/users/angemariya/badges/small" />
+<p>
+  <img alt="Codewars" src="https://www.codewars.com/users/angemariya/badges/small" />
+</p>
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" title="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
